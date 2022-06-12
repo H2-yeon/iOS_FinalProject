@@ -1,0 +1,6 @@
+framework module Pods_project__________1971324_________ {
+  umbrella header "Pods-project-소스코드-1971324-전희연-umbrella.h"
+
+  export *
+  module * { export * }
+}
